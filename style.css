@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nkar{
+   width: 100%;
+   height:100px ;
+   background-color: aliceblue;
+   display: flex;
+   
+}
+.Anime{
+    width: 1200px;
+    height: 955px;
+    background-color: rgb(151, 60, 182);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Manga{
+    background-color:rgb(255, 206, 127) ;
+    margin-left: 25px;
+    width: 1200px;
+    height: 955px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+width: 200px;
+height: 300px;
+}
+
+#hidden{
+    display: none;
+}
+.Manga img{ 
+    display: none;
+
+}
+.in{
+    margin-top: 250px;
+}
